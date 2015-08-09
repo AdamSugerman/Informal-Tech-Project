@@ -43,6 +43,7 @@
 | If someone said “Learning the [organization’s name] way” what would that mean? | Pedagogical approach. | 
 | Who needs to learn the skills you offer? How do you reach them? | Uncover target demographic and engagement strategy. | 
 | What level are learners usually at when they come to your organization? | Demographics. |
+| How do you teach people at different competency levels? |  Approach.  |
 | How do you start learning activities? | Approach. |
 | What kinds of guides or prompts do you use? | Find out how content aligns with learning approach |
 | How were these developed? What problems were you looking to solve? | Surface pedagogical philosophy behind content. |
